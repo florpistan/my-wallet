@@ -1,0 +1,10 @@
+:root {
+  --bg-dark: #0b1837;
+  --btn-primary: #4674f4;
+  --btn-secondary: #91aaf4;
+  --text-white: #ffffff;
+}
+
+.nav-background {
+  background: var(--bg-dark) !important;
+}
